@@ -1,5 +1,5 @@
 # Pokemon Go Type Application
-Text based pokemon go type effectiveness application using modules.
+Text based pokemon go type effectiveness application.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/

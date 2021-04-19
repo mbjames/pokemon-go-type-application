@@ -1,5 +1,4 @@
-# Go Type
-#### Pokemon Go Type Application
+# Pokemon Go Type Application
 Text based pokemon go type effectiveness application using modules.
 # Run The Source Code
 #### Download Python

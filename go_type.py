@@ -1,8 +1,11 @@
 import menu
 import effectiveness
+import banner
 
 
 def start():
+    banner.print_banner()
+
     menu.main_menu()
 
     answer = input("\n > ").lower()
